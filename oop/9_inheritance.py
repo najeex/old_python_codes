@@ -1,5 +1,5 @@
 class Animal:
-
+    
     def __init__(self):
         print("Animal created")
 
